@@ -1,0 +1,6 @@
+flask
+flask-socketio
+tensorflow
+pillow
+numpy
+gunicorn
